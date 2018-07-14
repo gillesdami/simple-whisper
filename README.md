@@ -2,6 +2,8 @@
 
 [Web3](https://github.com/ethereum/web3.js/) [Whisper](https://web3js.readthedocs.io/en/1.0/web3-shh.html) made simple.
 
+(A demo will be released when metamask upgrades to Web3 1.0)
+
 ## install
 
 ```bash
